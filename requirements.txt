@@ -1,0 +1,8 @@
+streamlit==1.45.1
+plotly==6.1.0
+pandas==2.2.3
+numpy==2.2.6
+altair==5.5.0
+pyarrow==20.0.0
+pydeck==0.9.1
+watchdog==6.0.0
